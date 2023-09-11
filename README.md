@@ -1,8 +1,13 @@
 # Rasp-Pi-Tank
 Rasp Pi Tank , primenjena elektronika
+
 # Project Title
 
-Short project description here.
+Predmetni projekat iz primenjene elektronike.
+Zadatak je napraviti tank / kola koja se mogu kontrolsati remotely.
+U ovom projektu je koriscen tenk i raspberry pi mikroracunar.
+Tenk se kontrolise putem Wifi-ja ili Bluetooth-a , konekcija je uspostavljena putem SSH-a.
+U daljem izlaganju data su upustsva kako skinuti projekat , pokrenuti i modifikovati po zelji.
 
 ## Table of Contents
 
@@ -10,10 +15,11 @@ Short project description here.
 - [Prerequisites](#prerequisites)
 - [Clone the Repository](#clone-the-repository)
 - [Run the Project](#run-the-project)
-- [Optional: Virtual Environment](#optional-virtual-environment)
+- [Commands](#how-to-actually-drive)
 - [Contributing](#contributing)
 - [License](#license)
-
+- [Contact](#contact)
+  
 ## How to Download and Run
 
 ### Prerequisites
@@ -32,7 +38,51 @@ Short project description here.
    ```bash
    git clone https://github.com/Meg4Byte/Rasp-Pi-Tank.git
 
-4.cd /Rasp-Pi-Tank
+4. cd /Rasp-Pi-Tank
 
-5.After this its time to run the script 
+5. After this its time to run the script
 
+### Run the Project
+
+In order to run the project do the following :
+
+   1. ```bash
+      chmod +x new_car.py
+
+   2. ```bash
+      python3 new_car.py
+
+After that the terminal should go black and you can start driving the tank.
+
+## Commands
+
+
+    • q 	- izlaz iz programa
+    • t 	- upali motor
+    • w	- ubrzaj
+    • s	- uspori
+    • key_up (strelica nagore) – napred
+    • key_down (strelica nadole) – nazad
+    • key_left (strelica nalevo) – levo
+    • key_right (strelica nadesno) – desno
+    • f	- rotacija kamere u desno
+    • g	-rotacija kamere u levo  
+
+## Contributing
+
+   If you'd like to contribute to this project, please follow these guidelines:
+   
+   Fork the repository on GitHub.
+   Clone your forked repository to your local machine.
+   Create a new branch for your feature or bug fix.
+   Make your changes and commit them.
+   Push your changes to your fork on GitHub.
+   Create a pull request to submit your contribution.
+   
+## License 
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this code at your own discretion.
+
+## Contact
+
+For questions or feedback, feel free to reach out at petnenadd_d@uns.ac.rs .
