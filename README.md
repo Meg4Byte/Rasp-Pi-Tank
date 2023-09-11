@@ -16,14 +16,10 @@ Short project description here.
 
 ## How to Download and Run
 
-Follow these steps to download the code and run the Python project locally on your machine.
-
 ### Prerequisites
 
-Before you begin, make sure you have the following installed:
-
 - Python (version X.X.X)
-- [Optional] Any additional dependencies or libraries required by your project.
+- [Optional] OpenCV , Media Pipe , VL53L0X , MPU6050
 
 ### Clone the Repository
 
@@ -34,4 +30,9 @@ Before you begin, make sure you have the following installed:
 3. Run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Meg4Byte/Rasp-Pi-Tank.git
+
+4.cd /Rasp-Pi-Tank
+
+5.After this its time to run the script 
+
