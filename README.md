@@ -1,5 +1,6 @@
 # Rasp-Pi-Tank
 Rasp Pi Tank , primenjena elektronika
+**I suggest you use the code from the new_branch it is more organized and has some new features
 
 # Project Title
 ![IMG_20230911_142547](https://github.com/Meg4Byte/Rasp-Pi-Tank/assets/121357383/890a5547-031a-4c4b-86ca-ac3200c185d9)
