@@ -11,6 +11,10 @@ U ovom projektu je koriscen tenk i raspberry pi mikroracunar.
 Tenk se kontrolise putem Wifi-ja ili Bluetooth-a , konekcija je uspostavljena putem SSH-a.
 U daljem izlaganju data su upustsva kako skinuti projekat , pokrenuti i modifikovati po zelji.
 
+NAPONEMA : U projektu je koriscena kamera koja strimuje kuda se tenk krece , ako zelite da 
+koirstite ovo morate da otvorite port i  , potom treba namestiti da se na prilokom pokretanja OS-a skirpta koja otvara port sama
+pokrece , potom u web browser-u po zelji treba uneti IP adresu datu u skripi.
+
 ## Table of Contents
 
 - [How to Download and Run](#how-to-download-and-run)
