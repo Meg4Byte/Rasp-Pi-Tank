@@ -14,6 +14,7 @@ U daljem izlaganju data su upustsva kako skinuti projekat , pokrenuti i modifiko
 NAPONEMA : U projektu je koriscena kamera koja strimuje kuda se tenk krece , ako zelite da 
 koirstite ovo morate da otvorite port i  , potom treba namestiti da se na prilokom pokretanja OS-a skirpta koja otvara port sama
 pokrece , potom u web browser-u po zelji treba uneti IP adresu datu u skripi.
+**Dodatno pogledati MJPG stream , sva upuststva su uzeta odatle
 
 ## Table of Contents
 
