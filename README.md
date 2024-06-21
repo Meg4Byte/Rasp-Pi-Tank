@@ -2,6 +2,8 @@
 Rasp Pi Tank , primenjena elektronika
 
 # Project Title
+![IMG_20230911_142547](https://github.com/Meg4Byte/Rasp-Pi-Tank/assets/121357383/890a5547-031a-4c4b-86ca-ac3200c185d9)
+![IMG_20230911_142553](https://github.com/Meg4Byte/Rasp-Pi-Tank/assets/121357383/10be3bdd-a0c3-4638-9220-1124b2f66e68)
 
 Predmetni projekat iz primenjene elektronike.
 Zadatak je napraviti tank / kola koja se mogu kontrolsati remotely.
@@ -57,16 +59,16 @@ After that the terminal should go black and you can start driving the tank.
 ## Commands
 
 
-    • q 	- izlaz iz programa
-    • t 	- upali motor
-    • w	- ubrzaj
-    • s	- uspori
-    • key_up (strelica nagore) – napred
-    • key_down (strelica nadole) – nazad
-    • key_left (strelica nalevo) – levo
-    • key_right (strelica nadesno) – desno
-    • f	- rotacija kamere u desno
-    • g	-rotacija kamere u levo  
+    • q 	- quit
+    • t 	- turn on the engine 
+    • w	  - speed up
+    • s	  - slow down
+    • key_up (strelica nagore)     – forward
+    • key_down (strelica nadole)   – backward
+    • key_left (strelica nalevo)   – turn left
+    • key_right (strelica nadesno) – turn right
+    • f	- rotate camera to the right
+    • g	 -rotate camera to the left  
 
 ## Contributing
 
